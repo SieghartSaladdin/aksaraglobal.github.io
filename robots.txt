@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aksaraglobalinspira.co.id/sitemap.xml
